@@ -21,7 +21,7 @@ with open('Label_Link.csv') as f:
 	
 	for row in readCSV:
 		# Try 20 samples
-		if i<=20:
+		if i<=5:
 			
 			label = row[0]
 			imageURL = row[1]
@@ -33,12 +33,15 @@ with open('Label_Link.csv') as f:
 			print "resizing images"
 			resized_image = cv2.resize(image, (400, 400)) # resize image to 400*400
 			
+			# get name from url
+			name = imageURL.split('/').pop()
+
 			# show resized image in window
-			cv2.imshow("resizedImage", resized_image)
+			cv2.imshow(name, resized_image)
 			cv2.waitKey(0)
 			
 			# Save image
-			imageName = label + str(i) + '.png'
+			imageName = name + '.png'
 			cv2.imwrite(imageName,resized_image) # save image 
 			
 			cv2.destroyAllWindows()
