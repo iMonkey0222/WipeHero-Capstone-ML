@@ -24,6 +24,7 @@ on it.
 
 ### Classifier Accuracy
 The classifier accuracy of the model can achieve 80.98% if not considering the fake class.
+![accuracy](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Details%20of%20loss/experiments.png?raw=true)
 
 ### Generative Results
 - Model train 1000 iterations
@@ -32,3 +33,5 @@ The classifier accuracy of the model can achieve 80.98% if not considering the f
 - Model train 2000 iterations
 ![2000epochs](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch2000.png?raw=true)
 
+### Loss Details
+![loss](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Details%20of%20loss/loss.png?raw=true)
