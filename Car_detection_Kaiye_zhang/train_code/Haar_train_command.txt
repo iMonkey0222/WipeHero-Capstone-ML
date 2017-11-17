@@ -1,0 +1,5 @@
+opencv_createsamples.exe -img pos1.jpg -bg neg.txt -info info/info.lst -pngoutput info -maxidev 40 -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 650
+
+opencv_createsamples.exe -info info/info.lst -num 900 -w 20 -h 20 -vec positives.vec
+
+opencv_traincascade.exe -data data -vec positives.vec -bg neg.txt -numPos 3900 -numNeg 1963 -numStages 11 -featureType LBP -w 24 -h 20 -minHitRate 0.9999 -maxFalseAlarmRate 0.5 
