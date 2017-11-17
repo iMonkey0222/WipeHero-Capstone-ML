@@ -32,10 +32,10 @@ The classifier accuracy of the model can achieve 80.98% if not considering the f
 
 ### Generative Results
 - Generated Samples 1000th epochs
-![1000epoch](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch1000.png?raw=true)
+![1000epoch](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/1.Generative%20Results/outsideFront_epoch1000.png?raw=true)
 
 - Generated Samples 2000th iterations
-![2000epochs](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch2000.png?raw=true)
+![2000epochs](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/1.Generative%20Results/outsideFront_epoch2000.png?raw=true)
 
 ## Training Details
 
