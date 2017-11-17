@@ -28,7 +28,7 @@ The original data for outliers detection is unlabelled, unbalanced and there is 
 ## Resultes
 ### Classifier Accuracy
 The classifier accuracy of the model can achieve 80.98% if not considering the fake class.
-![accuracy](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Details%20of%20loss/experiments.png?raw=true)
+![accuracy](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Images%20of%20loss_lr_experiments/experiments.png?raw=true)
 
 ### Generative Results
 - Generated Samples 1000th epochs
