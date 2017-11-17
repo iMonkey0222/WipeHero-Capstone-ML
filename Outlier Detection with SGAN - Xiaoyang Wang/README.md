@@ -1,6 +1,6 @@
 ##  Semi-Supervised Learning with GAN in Keras
 
-This outlier detection project designed for WipeHero is implemented by semi-supervised learning GAN, here is called SGAN, which is a re-implementation of this paper [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/abs/1606.01583). In addition, the idea of SGAN model structure borrow much from [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN). The improvement and modification is based 
+This outlier detection project designed for WipeHero is implemented by semi-supervised learning GAN, here is called SGAN, which is a re-implementation of this paper [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/abs/1606.01583). In addition, the idea of SGAN model structure borrowed much from [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN). The improvement and modification is based 
 on it.
 
 ### Implementation Description
