@@ -4,7 +4,7 @@ This outlier detection project designed for WipeHero is implemented by semi-supe
 on it.
 
 ### Implementation Description
-- First preprocessing the data and augmenting data
+- First preprocessing the data and augmenting data (here only considering category: **outside front**)
 - Train and test SGAN model with 1000 labelled data (800 for train, 200 for test)
 - Generative resultes and Prediction Test results 
 
