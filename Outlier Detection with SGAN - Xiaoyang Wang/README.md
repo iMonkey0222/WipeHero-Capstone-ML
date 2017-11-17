@@ -23,4 +23,4 @@ on it.
 ### Classifier Accuracy
 The model can achieve 80.98% classifier accuracy if not considering the fake class.
 
-
+![1000epoch](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch1000.png?raw=true)
