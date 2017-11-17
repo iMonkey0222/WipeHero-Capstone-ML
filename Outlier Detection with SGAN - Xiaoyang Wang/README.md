@@ -23,7 +23,7 @@ on it.
 ![dataset](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/1.Input%20Processing%20and%20Outliers%20Augmenetation/processed_dataset_samples.png?raw=true)
 
 ### Classifier Accuracy
-The model can achieve 80.98% classifier accuracy if not considering the fake class.
+The classifier accuracy of the model can achieve 80.98% if not considering the fake class.
 
 ### Generative Results
 - Model train 1000 iterations
