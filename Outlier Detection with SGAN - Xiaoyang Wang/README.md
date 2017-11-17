@@ -19,7 +19,7 @@ on it.
 - H5PY
 - Keras
 
-### Processed Dataset Review
+### Processed & Augmented Dataset Sample Review
 ![dataset](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/1.Input%20Processing%20and%20Outliers%20Augmenetation/processed_dataset_samples.png?raw=true)
 
 ### Classifier Accuracy
