@@ -8,7 +8,6 @@ on it.
 - Train and test SGAN model with 1000 labelled data (800 for train, 200 for test)
 - Generative resultes and Prediction Test results 
 
-
 ### Prerequisites
 - Jupyter Notebook
 - Python 3
@@ -23,4 +22,10 @@ on it.
 ### Classifier Accuracy
 The model can achieve 80.98% classifier accuracy if not considering the fake class.
 
+### Generative Results
+- Model train 1000 iterations
 ![1000epoch](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch1000.png?raw=true)
+
+- Model train 2000 iterations
+![2000epochs](https://github.com/iMonkey0222/WipeHero-Capstone-ML/blob/master/Outlier%20Detection%20with%20SGAN%20-%20Xiaoyang%20Wang/3.Results/Generative%20Results/outsideFront_epoch2000.png?raw=true)
+
