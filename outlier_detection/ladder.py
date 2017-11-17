@@ -321,6 +321,6 @@ def run_ladder(X_train_label, Y_train_label, batch_size=100, epochs=10, noise_st
     print("=====================\n")
     print("Done :)")
 
-run_ladder(X_train_label, Y_train_label, batch_size=100, epochs=50, noise_std=0.2, data_dir='data', seed=42,
+run_ladder(X_train_label, Y_train_label, batch_size=100, epochs=10, noise_std=0.2, data_dir='data', seed=42,
               u_costs='0.1, 0.1, 0.1, 0.1, 0.1, 10., 1000.', cuda=False, decay_epoch=20)
 draw_evaluate(supervised_loss, unsupervised_loss, total_loss, epoch_number)
